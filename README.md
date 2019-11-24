@@ -29,7 +29,7 @@ Face Video Deblurring Using 3D Facial Priors [ICCV 2019](http://openaccess.thecv
 
 ## face reenactment/annimation
 
-FSGAN: Subject Agnostic Face Swapping and Reenactment [ICCV 2019] (http://openaccess.thecvf.com/content_ICCV_2019/papers/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.pdf)
+FSGAN: Subject Agnostic Face Swapping and Reenactment [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.pdf)
 
 ## facial manipulation detection
 
