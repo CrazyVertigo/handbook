@@ -35,11 +35,11 @@ M2FPA: A Multi-Yaw Multi-Pitch High-Quality Dataset and Benchmark for Facial Pos
 
 ## face generation
 
-Face-to-Parameter Translation for Game Character Auto-Creation [ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shi_Face-to-Parameter_Translation_for_Game_Character_Auto-Creation_ICCV_2019_paper.pdf)
+Face-to-Parameter Translation for Game Character Auto-Creation [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shi_Face-to-Parameter_Translation_for_Game_Character_Auto-Creation_ICCV_2019_paper.pdf)
 
-SC-FEGAN: Face Editing Generative Adversarial Network With User's Sketch and Color [ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Jo_SC-FEGAN_Face_Editing_Generative_Adversarial_Network_With_Users_Sketch_and_ICCV_2019_paper.pdf)
+SC-FEGAN: Face Editing Generative Adversarial Network With User's Sketch and Color [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Jo_SC-FEGAN_Face_Editing_Generative_Adversarial_Network_With_Users_Sketch_and_ICCV_2019_paper.pdf)
 
-Face De-Occlusion Using 3D Morphable Model and Generative Adversarial Network [ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yuan_Face_De-Occlusion_Using_3D_Morphable_Model_and_Generative_Adversarial_Network_ICCV_2019_paper.pdf)
+Face De-Occlusion Using 3D Morphable Model and Generative Adversarial Network [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yuan_Face_De-Occlusion_Using_3D_Morphable_Model_and_Generative_Adversarial_Network_ICCV_2019_paper.pdf)
 
 Live Face De-Identification in Video [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gafni_Live_Face_De-Identification_in_Video_ICCV_2019_paper.pdf)
 
@@ -59,7 +59,7 @@ FSGAN: Subject Agnostic Face Swapping and Reenactment [ICCV 2019](http://openacc
 
 FaceForensics++: Learning to Detect Manipulated Facial Images [ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Rossler_FaceForensics_Learning_to_Detect_Manipulated_Facial_Images_ICCV_2019_paper.pdf)
 
-Detecting Photoshopped Faces by Scripting Photoshop [ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Detecting_Photoshopped_Faces_by_Scripting_Photoshop_ICCV_2019_paper.pdf)
+Detecting Photoshopped Faces by Scripting Photoshop [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Detecting_Photoshopped_Faces_by_Scripting_Photoshop_ICCV_2019_paper.pdf)
 
 ## facial sketch
 
@@ -69,19 +69,19 @@ Scoot: A Perceptual Metric for Facial Sketches [ICCV 2019](http://openaccess.the
 
 #### loss
 
-Fair Loss: Margin-Aware Reinforcement Learning for Deep Face Recognition [ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Fair_Loss_Margin-Aware_Reinforcement_Learning_for_Deep_Face_Recognition_ICCV_2019_paper.pdf)
+Fair Loss: Margin-Aware Reinforcement Learning for Deep Face Recognition [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Fair_Loss_Margin-Aware_Reinforcement_Learning_for_Deep_Face_Recognition_ICCV_2019_paper.pdf)
 
-Attentional Feature-Pair Relation Networks for Accurate Face Recognition [ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kang_Attentional_Feature-Pair_Relation_Networks_for_Accurate_Face_Recognition_ICCV_2019_paper.pdf)
+Attentional Feature-Pair Relation Networks for Accurate Face Recognition [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kang_Attentional_Feature-Pair_Relation_Networks_for_Accurate_Face_Recognition_ICCV_2019_paper.pdf)
 
 Probabilistic Face Embeddings [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shi_Probabilistic_Face_Embeddings_ICCV_2019_paper.pdf)
 
 ### race
 
-Racial Faces in the Wild: Reducing Racial Bias by Information Maximization Adaptation Network [ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Racial_Faces_in_the_Wild_Reducing_Racial_Bias_by_Information_ICCV_2019_paper.pdf)
+Racial Faces in the Wild: Reducing Racial Bias by Information Maximization Adaptation Network [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Racial_Faces_in_the_Wild_Reducing_Racial_Bias_by_Information_ICCV_2019_paper.pdf)
 
 ### occlusion
 
-Occlusion Robust Face Recognition Based on Mask Learning With Pairwise Differential Siamese Network [ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Song_Occlusion_Robust_Face_Recognition_Based_on_Mask_Learning_With_Pairwise_ICCV_2019_paper.pdf)
+Occlusion Robust Face Recognition Based on Mask Learning With Pairwise Differential Siamese Network [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Song_Occlusion_Robust_Face_Recognition_Based_on_Mask_Learning_With_Pairwise_ICCV_2019_paper.pdf)
 
 Towards Interpretable Face Recognition [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yin_Towards_Interpretable_Face_Recognition_ICCV_2019_paper.pdf)
 
@@ -91,6 +91,6 @@ Co-Mining: Deep Face Recognition With Noisy Labels [ICCV 2019](http://openaccess
 
 ## face recognition from videos
 
-Uncertainty Modeling of Contextual-Connections Between Tracklets for Unconstrained Video-Based Face Recognition [ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_Uncertainty_Modeling_of_Contextual-Connections_Between_Tracklets_for_Unconstrained_Video-Based_Face_ICCV_2019_paper.pdf)
+Uncertainty Modeling of Contextual-Connections Between Tracklets for Unconstrained Video-Based Face Recognition [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_Uncertainty_Modeling_of_Contextual-Connections_Between_Tracklets_for_Unconstrained_Video-Based_Face_ICCV_2019_paper.pdf)
 
-Video Face Clustering With Unknown Number of Clusters [ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tapaswi_Video_Face_Clustering_With_Unknown_Number_of_Clusters_ICCV_2019_paper.pdf)
+Video Face Clustering With Unknown Number of Clusters [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tapaswi_Video_Face_Clustering_With_Unknown_Number_of_Clusters_ICCV_2019_paper.pdf)
