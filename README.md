@@ -1,6 +1,5 @@
 # Handbook of Face Recognition
 
-
 ## 2D face alignment
 
 DeCaFA: Deep Convolutional Cascade for Face Alignment in the Wild [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dapogny_DeCaFA_Deep_Convolutional_Cascade_for_Face_Alignment_in_the_Wild_ICCV_2019_paper.pdf)
@@ -29,6 +28,14 @@ A Decoupled 3D Facial Shape Model by Adversarial Training [ICCV 2019](http://ope
 
 Photo-Realistic Facial Details Synthesis From Single Image [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Photo-Realistic_Facial_Details_Synthesis_From_Single_Image_ICCV_2019_paper.pdf)
 
+MVF-Net: Multi-View 3D Face Morphable Model Regression [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_MVF-Net_Multi-View_3D_Face_Morphable_Model_Regression_CVPR_2019_paper.pdf)
+
+Dense 3D Face Decoding Over 2500FPS: Joint Texture & Shape Convolutional Mesh Decoders [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Dense_3D_Face_Decoding_Over_2500FPS_Joint_Texture__Shape_CVPR_2019_paper.pdf)
+
+Towards High-Fidelity Nonlinear 3D Face Morphable Model [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tran_Towards_High-Fidelity_Nonlinear_3D_Face_Morphable_Model_CVPR_2019_paper.pdf)
+
+GANFIT: Generative Adversarial Network Fitting for High Fidelity 3D Face Reconstruction [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gecer_GANFIT_Generative_Adversarial_Network_Fitting_for_High_Fidelity_3D_Face_CVPR_2019_paper.pdf)
+
 ## face pose estimation
 
 M2FPA: A Multi-Yaw Multi-Pitch High-Quality Dataset and Benchmark for Facial Pose Analysis [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_M2FPA_A_Multi-Yaw_Multi-Pitch_High-Quality_Dataset_and_Benchmark_for_Facial_ICCV_2019_paper.pdf)
@@ -47,17 +54,13 @@ Make a Face: Towards Arbitrary High Fidelity Face Manipulation [ICCV 2019](http:
 
 LADN: Local Adversarial Disentangling Network for Facial Makeup and De-Makeup [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gu_LADN_Local_Adversarial_Disentangling_Network_for_Facial_Makeup_and_De-Makeup_ICCV_2019_paper.pdf)
 
-## face deblur
-
-Face Video Deblurring Using 3D Facial Priors [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ren_Face_Video_Deblurring_Using_3D_Facial_Priors_ICCV_2019_paper.pdf)
-
 ## face reenactment/annimation
 
 FSGAN: Subject Agnostic Face Swapping and Reenactment [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.pdf)
 
 ## facial manipulation detection
 
-FaceForensics++: Learning to Detect Manipulated Facial Images [ICCV2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Rossler_FaceForensics_Learning_to_Detect_Manipulated_Facial_Images_ICCV_2019_paper.pdf)
+FaceForensics++: Learning to Detect Manipulated Facial Images [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Rossler_FaceForensics_Learning_to_Detect_Manipulated_Facial_Images_ICCV_2019_paper.pdf)
 
 Detecting Photoshopped Faces by Scripting Photoshop [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Detecting_Photoshopped_Faces_by_Scripting_Photoshop_ICCV_2019_paper.pdf)
 
@@ -75,6 +78,8 @@ Attentional Feature-Pair Relation Networks for Accurate Face Recognition [ICCV 2
 
 Probabilistic Face Embeddings [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shi_Probabilistic_Face_Embeddings_ICCV_2019_paper.pdf)
 
+RegularFace: Deep Face Recognition via Exclusive Regularization [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_RegularFace_Deep_Face_Recognition_via_Exclusive_Regularization_CVPR_2019_paper.pdf)
+
 ### race
 
 Racial Faces in the Wild: Reducing Racial Bias by Information Maximization Adaptation Network [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Racial_Faces_in_the_Wild_Reducing_Racial_Bias_by_Information_ICCV_2019_paper.pdf)
@@ -89,8 +94,23 @@ Towards Interpretable Face Recognition [ICCV 2019](http://openaccess.thecvf.com/
 
 Co-Mining: Deep Face Recognition With Noisy Labels [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Co-Mining_Deep_Face_Recognition_With_Noisy_Labels_ICCV_2019_paper.pdf)
 
+## face clustering
+
+Linkage Based Face Clustering via Graph Convolution Network [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Linkage_Based_Face_Clustering_via_Graph_Convolution_Network_CVPR_2019_paper.pdf)
+
+Learning to Cluster Faces on an Affinity Graph [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Learning_to_Cluster_Faces_on_an_Affinity_Graph_CVPR_2019_paper.pdf)
+
 ## face recognition from videos
 
 Uncertainty Modeling of Contextual-Connections Between Tracklets for Unconstrained Video-Based Face Recognition [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_Uncertainty_Modeling_of_Contextual-Connections_Between_Tracklets_for_Unconstrained_Video-Based_Face_ICCV_2019_paper.pdf)
 
 Video Face Clustering With Unknown Number of Clusters [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Tapaswi_Video_Face_Clustering_With_Unknown_Number_of_Clusters_ICCV_2019_paper.pdf)
+
+## face anti-spoofing
+
+A Dataset and Benchmark for Large-Scale Multi-Modal Face Anti-Spoofing [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_A_Dataset_and_Benchmark_for_Large-Scale_Multi-Modal_Face_Anti-Spoofing_CVPR_2019_paper.pdf)
+
+
+## face deblur
+
+Face Video Deblurring Using 3D Facial Priors [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ren_Face_Video_Deblurring_Using_3D_Facial_Priors_ICCV_2019_paper.pdf)
