@@ -79,11 +79,15 @@ M2FPA: A Multi-Yaw Multi-Pitch High-Quality Dataset and Benchmark for Facial Pos
 
 ## face expression
 
+Context-Aware Feature and Label Fusion for Facial Action Unit Intensity Estimation With Partially Labeled Data [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Context-Aware_Feature_and_Label_Fusion_for_Facial_Action_Unit_Intensity_ICCV_2019_paper.pdf)
+
 A Compact Embedding for Facial Expression Similarity [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Vemulapalli_A_Compact_Embedding_for_Facial_Expression_Similarity_CVPR_2019_paper.pdf)
 
 Joint Representation and Estimator Learning for Facial Action Unit Intensity Estimation [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Joint_Representation_and_Estimator_Learning_for_Facial_Action_Unit_Intensity_CVPR_2019_paper.pdf)
 
 Local Relationship Learning With Person-Specific Shape Regularization for Facial Action Unit Detection [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Niu_Local_Relationship_Learning_With_Person-Specific_Shape_Regularization_for_Facial_Action_CVPR_2019_paper.pdf)
+
+Self-Supervised Representation Learning From Videos for Facial Action Unit Detection [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Self-Supervised_Representation_Learning_From_Videos_for_Facial_Action_Unit_Detection_CVPR_2019_paper.pdf)
 
 ## face generation
 
