@@ -10,6 +10,10 @@ FA-RPN: Floating Region Proposals for Face Detection [CVPR 2019](http://openacce
 
 Joint Face Detection and Facial Motion Retargeting for Multiple Faces [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chaudhuri_Joint_Face_Detection_and_Facial_Motion_Retargeting_for_Multiple_Faces_CVPR_2019_paper.pdf)
 
+Using LIP to Gloss Over Faces in Single-Stage Face Detection Networks [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Siqi_Yang_Using_LIP_to_ECCV_2018_paper.pdf)
+
+PyramidBox: A Context-assisted Single Shot Face Detector [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xu_Tang_PyramidBox_A_Context-assisted_ECCV_2018_paper.pdf)
+
 ## 2D face alignment
 
 DeCaFA: Deep Convolutional Cascade for Face Alignment in the Wild [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dapogny_DeCaFA_Deep_Convolutional_Cascade_for_Face_Alignment_in_the_Wild_ICCV_2019_paper.pdf)
@@ -29,6 +33,14 @@ Aggregation via Separation: Boosting Facial Landmark Detector With Semi-Supervis
 Semantic Alignment: Finding Semantically Consistent Ground-Truth for Facial Landmark Detection [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Semantic_Alignment_Finding_Semantically_Consistent_Ground-Truth_for_Facial_Landmark_Detection_CVPR_2019_paper.pdf)
 
 Robust Facial Landmark Detection via Occlusion-Adaptive Deep Networks [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Robust_Facial_Landmark_Detection_via_Occlusion-Adaptive_Deep_Networks_CVPR_2019_paper.pdf)
+
+Deep Adaptive Attention for Joint Facial Action Unit Detection and Face Alignment [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhiwen_Shao_Deep_Adaptive_Attention_ECCV_2018_paper.pdf)
+
+A Deeply-initialized Coarse-to-fine Ensemble of Regression Trees for Face Alignment [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Roberto_Valle_A_Deeply-initialized_Coarse-to-fine_ECCV_2018_paper.pdf)
+
+## face tracking
+
+Dual-Agent Deep Reinforcement Learning for Deformable Face Tracking [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Minghao_Guo_Dual-Agent_Deep_Reinforcement_ECCV_2018_paper.pdf)
 
 ## face parsing
 
@@ -74,9 +86,21 @@ Expressive Body Capture: 3D Hands, Face, and Body From a Single Image [CVPR 2019
 
 Disentangled Representation Learning for 3D Face Shape [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jiang_Disentangled_Representation_Learning_for_3D_Face_Shape_CVPR_2019_paper.pdf)
 
+Generating 3D Faces using Convolutional Mesh Autoencoders [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Anurag_Ranjan_Generating_3D_Faces_ECCV_2018_paper.pdf)
+
+Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yao_Feng_Joint_3D_Face_ECCV_2018_paper.pdf)
+
+3D Face Reconstruction from Light Field Images: A Model-free Approach [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mingtao_Feng_3D_Face_Reconstruction_ECCV_2018_paper.pdf)
+
+Dense Semantic and Topological Correspondence of 3D Faces without Landmarks [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenfeng_Fan_Dense_Semantic_and_ECCV_2018_paper.pdf)
+
 ## face pose estimation
 
 M2FPA: A Multi-Yaw Multi-Pitch High-Quality Dataset and Benchmark for Facial Pose Analysis [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_M2FPA_A_Multi-Yaw_Multi-Pitch_High-Quality_Dataset_and_Benchmark_for_Facial_ICCV_2019_paper.pdf)
+
+## face age
+
+Facial Dynamics Interpreter Network: What are the Important Relations between Local Dynamics for Facial Trait Estimation? [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Seong_Tae_Kim_Facial_Dynamics_Interpreter_ECCV_2018_paper.pdf)
 
 ## face expression
 
@@ -89,6 +113,12 @@ Joint Representation and Estimator Learning for Facial Action Unit Intensity Est
 Local Relationship Learning With Person-Specific Shape Regularization for Facial Action Unit Detection [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Niu_Local_Relationship_Learning_With_Person-Specific_Shape_Regularization_for_Facial_Action_CVPR_2019_paper.pdf)
 
 Self-Supervised Representation Learning From Videos for Facial Action Unit Detection [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Self-Supervised_Representation_Learning_From_Videos_for_Facial_Action_Unit_Detection_CVPR_2019_paper.pdf)
+
+Facial Expression Recognition with Inconsistently Annotated Datasets [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jiabei_Zeng_Facial_Expression_Recognition_ECCV_2018_paper.pdf)
+
+Deep Structure Inference Network for Facial Action Unit Recognition [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ciprian_Corneanu_Deep_Structure_Inference_ECCV_2018_paper.pdf)
+
+Deep Multi-Task Learning to Recognise Subtle Facial Expressions of Mental States [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guosheng_Hu_Deep_Multi-Task_Learning_ECCV_2018_paper.pdf)
 
 ## face generation
 
@@ -116,13 +146,27 @@ Learning Warped Guidance for Blind Face Restoration [ECCV 2018](http://openacces
 
 Semi-supervised Adversarial Learning to Generate Photorealistic Face Images of New Identities from 3D Morphable Model [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Baris_Gecer_Semi-supervised_Adversarial_Learning_ECCV_2018_paper.pdf)
 
+ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Taihong_Xiao_ELEGANT_Exchanging_Latent_ECCV_2018_paper.pdf)
+
+Attribute-Guided Face Generation Using Conditional CycleGAN [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yongyi_Lu_Attribute-Guided_Face_Generation_ECCV_2018_paper.pdf)
+
+Generative Adversarial Network with Spatial Attention for Face Attribute Editing [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Gang_Zhang_Generative_Adversarial_Network_ECCV_2018_paper.pdf)
+
+GANimation: Anatomically-aware Facial Animation from a Single Image [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Albert_Pumarola_Anatomically_Coherent_Facial_ECCV_2018_paper.pdf)
+
 ## face obfuscation
 
+Live Face De-Identification in Video [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gafni_Live_Face_De-Identification_in_Video_ICCV_2019_paper.pdf)
+
 A Hybrid Model for Identity Obfuscation by Face Replacement [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Qianru_Sun_A_Hybrid_Model_ECCV_2018_paper.pdf)
+
+Learning to Anonymize Faces for Privacy Preserving Action Detection [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhongzheng_Ren_Learning_to_Anonymize_ECCV_2018_paper.pdf)
 
 ## face reenactment/annimation
 
 FSGAN: Subject Agnostic Face Swapping and Reenactment [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.pdf)
+
+ReenactGAN: Learning to Reenact Faces via Boundary Transfer [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wayne_Wu_Learning_to_Reenact_ECCV_2018_paper.pdf)
 
 ## facial manipulation detection
 
@@ -156,13 +200,25 @@ AdaptiveFace: Adaptive Margin and Sampling for Face Recognition [CVPR 2019](http
 
 Face Recognition with Contrastive Convolution [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chunrui_Han_Face_Recognition_with_ECCV_2018_paper.pdf)
 
+Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaohang_Zhan_Consensus-Driven_Propagation_in_ECCV_2018_paper.pdf)
+
+Pairwise Relational Networks for Face Recognition [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kang_Pairwise_Relational_Networks_ECCV_2018_paper.pdf)
+
+### unsupervised 
+
+From Face Recognition to Models of Identity: A Bayesian Approach to Learning about Unknown Identities from Unsupervised Data [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Daniel_Castro_From_Face_Recognition_ECCV_2018_paper.pdf)
+
 ### age
 
 Decorrelated Adversarial Learning for Age-Invariant Face Recognition [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Decorrelated_Adversarial_Learning_for_Age-Invariant_Face_Recognition_CVPR_2019_paper.pdf)
 
+Orthogonal Deep Features Decomposition for Age-Invariant Face Recognition [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/yitong_wang_Orthogonal_Deep_Features_ECCV_2018_paper.pdf)
+
 ### pose
 
 Unsupervised Face Normalization With Extreme Pose and Expression in the Wild [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Qian_Unsupervised_Face_Normalization_With_Extreme_Pose_and_Expression_in_the_CVPR_2019_paper.pdf)
+
+GridFace: Face Rectification via Learning Local Homography Transformations [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhou_GridFace_Face_Rectification_ECCV_2018_paper.pdf)
 
 ### race
 
@@ -180,11 +236,19 @@ Co-Mining: Deep Face Recognition With Noisy Labels [ICCV 2019](http://openaccess
 
 Noise-Tolerant Paradigm for Training Face Recognition CNNs [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hu_Noise-Tolerant_Paradigm_for_Training_Face_Recognition_CNNs_CVPR_2019_paper.pdf)
 
+The Devil of Face Recognition is in the Noise [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liren_Chen_The_Devil_of_ECCV_2018_paper.pdf)
+
 ### long tail
 
 Feature Transfer Learning for Face Recognition With Under-Represented Data [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yin_Feature_Transfer_Learning_for_Face_Recognition_With_Under-Represented_Data_CVPR_2019_paper.pdf)
 
 Unequal-Training for Deep Face Recognition With Long-Tailed Noisy Data [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhong_Unequal-Training_for_Deep_Face_Recognition_With_Long-Tailed_Noisy_Data_CVPR_2019_paper.pdf)
+
+### set-based embedding
+
+Dependency-aware Attention Control for Unconstrained Face Recognition with Image Sets [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaofeng_Liu_Dependency-aware_Attention_Control_ECCV_2018_paper.pdf)
+
+Comparator Networks [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Weidi_Xie_Comparator_Networks_ECCV_2018_paper.pdf)
 
 ## face clustering
 
@@ -207,7 +271,6 @@ Led3D: A Lightweight and Efficient Deep Approach to Recognizing Low-Quality 3D F
 R3 Adversarial Network for Cross Model Face Recognition [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_R3_Adversarial_Network_for_Cross_Model_Face_Recognition_CVPR_2019_paper.pdf)
 
 ## attack on face recognition 
-Live Face De-Identification in Video [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gafni_Live_Face_De-Identification_in_Video_ICCV_2019_paper.pdf)
 
 Efficient Decision-Based Black-Box Adversarial Attacks on Face Recognition [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dong_Efficient_Decision-Based_Black-Box_Adversarial_Attacks_on_Face_Recognition_CVPR_2019_paper.pdf)
 
@@ -220,6 +283,8 @@ Face Anti-Spoofing: Model Matters, so Does Data [CVPR 2019](http://openaccess.th
 Deep Tree Learning for Zero-Shot Face Anti-Spoofing [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Deep_Tree_Learning_for_Zero-Shot_Face_Anti-Spoofing_CVPR_2019_paper.pdf)
 
 Face De-Spoofing: Anti-Spoofing via Noise Modeling [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yaojie_Liu_Face_De-spoofing_ECCV_2018_paper.pdf)
+
+Remote Photoplethysmography Correspondence Feature for 3D Mask Face Presentation Attack Detection [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Siqi_Liu_Remote_Photoplethysmography_Correspondence_ECCV_2018_paper.pdf)
 
 ## face lighting
 
@@ -239,10 +304,17 @@ Super-Identity Convolutional Neural Network for Face Hallucination [ECCV 2018](h
 
 Face Super-resolution Guided by Facial Component Heatmaps [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xin_Yu_Face_Super-resolution_Guided_ECCV_2018_paper.pdf)
 
+To learn image super-resolution, use a GAN to learn how to do image degradation first [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Adrian_Bulat_To_learn_image_ECCV_2018_paper.pdf)
+
 ## face and speech
+
 Speech2Face: Learning the Face Behind a Voice [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Oh_Speech2Face_Learning_the_Face_Behind_a_Voice_CVPR_2019_paper.pdf)
 
 Hierarchical Cross-Modal Talking Face Generation With Dynamic Pixel-Wise Loss [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Hierarchical_Cross-Modal_Talking_Face_Generation_With_Dynamic_Pixel-Wise_Loss_CVPR_2019_paper.pdf)
+
+X2Face: A network for controlling face generation using images, audio, and pose codes [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Olivia_Wiles_X2Face_A_network_ECCV_2018_paper.pdf)
+
+Learnable PINs: Cross-Modal Embeddings for Person Identity [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Samuel_Albanie_Learnable_PINs_Cross-Modal_ECCV_2018_paper.pdf)
 
 ## face psychophysic
 
