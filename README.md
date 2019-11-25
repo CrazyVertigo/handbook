@@ -14,6 +14,10 @@ Using LIP to Gloss Over Faces in Single-Stage Face Detection Networks [ECCV 2018
 
 PyramidBox: A Context-assisted Single Shot Face Detector [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xu_Tang_PyramidBox_A_Context-assisted_ECCV_2018_paper.pdf)
 
+Finding Tiny Faces in the Wild With Generative Adversarial Network [CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Finding_Tiny_Faces_CVPR_2018_paper.pdf)
+
+Real-Time Rotation-Invariant Face Detection With Progressive Calibration Networks [CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shi_Real-Time_Rotation-Invariant_Face_CVPR_2018_paper.pdf)
+
 ## 2D face alignment
 
 DeCaFA: Deep Convolutional Cascade for Face Alignment in the Wild [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Dapogny_DeCaFA_Deep_Convolutional_Cascade_for_Face_Alignment_in_the_Wild_ICCV_2019_paper.pdf)
@@ -38,9 +42,15 @@ Deep Adaptive Attention for Joint Facial Action Unit Detection and Face Alignmen
 
 A Deeply-initialized Coarse-to-fine Ensemble of Regression Trees for Face Alignment [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Roberto_Valle_A_Deeply-initialized_Coarse-to-fine_ECCV_2018_paper.pdf)
 
+Disentangling 3D Pose in a Dendritic CNN for Unconstrained 2D Face Alignment [CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Kumar_Disentangling_3D_Pose_CVPR_2018_paper.pdf)
+
+Look at Boundary: A Boundary-Aware Face Alignment Algorithm [CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Look_at_Boundary_CVPR_2018_paper.pdf)
+
 ## face tracking
 
 Dual-Agent Deep Reinforcement Learning for Deformable Face Tracking [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Minghao_Guo_Dual-Agent_Deep_Reinforcement_ECCV_2018_paper.pdf)
+
+A Prior-Less Method for Multi-Face Tracking in Unconstrained Videos [CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lin_A_Prior-Less_Method_CVPR_2018_paper.pdf)
 
 ## face parsing
 
@@ -93,6 +103,8 @@ Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Ne
 3D Face Reconstruction from Light Field Images: A Model-free Approach [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mingtao_Feng_3D_Face_Reconstruction_ECCV_2018_paper.pdf)
 
 Dense Semantic and Topological Correspondence of 3D Faces without Landmarks [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenfeng_Fan_Dense_Semantic_and_ECCV_2018_paper.pdf)
+
+Learning From Millions of 3D Scans for Large-Scale 3D Face Recognition [CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gilani_Learning_From_Millions_CVPR_2018_paper.pdf)
 
 ## face pose estimation
 
@@ -153,6 +165,12 @@ Attribute-Guided Face Generation Using Conditional CycleGAN [ECCV 2018](http://o
 Generative Adversarial Network with Spatial Attention for Face Attribute Editing [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Gang_Zhang_Generative_Adversarial_Network_ECCV_2018_paper.pdf)
 
 GANimation: Anatomically-aware Facial Animation from a Single Image [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Albert_Pumarola_Anatomically_Coherent_Facial_ECCV_2018_paper.pdf)
+
+Learning Face Age Progression: A Pyramid Architecture of GANs [CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Learning_Face_Age_CVPR_2018_paper.pdf)
+
+FaceID-GAN: Learning a Symmetry Three-Player GAN for Identity-Preserving Face Synthesis [CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_FaceID-GAN_Learning_a_CVPR_2018_paper.pdf)
+
+Exploring Disentangled Feature Representation Beyond Face Identification [CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Exploring_Disentangled_Feature_CVPR_2018_paper.pdf)
 
 ## face obfuscation
 
@@ -220,6 +238,8 @@ Unsupervised Face Normalization With Extreme Pose and Expression in the Wild [CV
 
 GridFace: Face Rectification via Learning Local Homography Transformations [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhou_GridFace_Face_Rectification_ECCV_2018_paper.pdf)
 
+Towards Pose Invariant Face Recognition in the Wild [CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Towards_Pose_Invariant_CVPR_2018_paper.pdf)
+
 ### race
 
 Racial Faces in the Wild: Reducing Racial Bias by Information Maximization Adaptation Network [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Racial_Faces_in_the_Wild_Reducing_Racial_Bias_by_Information_ICCV_2019_paper.pdf)
@@ -286,6 +306,8 @@ Face De-Spoofing: Anti-Spoofing via Noise Modeling [ECCV 2018](http://openaccess
 
 Remote Photoplethysmography Correspondence Feature for 3D Mask Face Presentation Attack Detection [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Siqi_Liu_Remote_Photoplethysmography_Correspondence_ECCV_2018_paper.pdf)
 
+Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision [CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Learning_Deep_Models_CVPR_2018_paper.pdf)
+
 ## face lighting
 
 Faces as Lighting Probes via Unsupervised Deep Highlight Extraction [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Renjiao_Yi_Faces_as_Lighting_ECCV_2018_paper.pdf)
@@ -305,6 +327,10 @@ Super-Identity Convolutional Neural Network for Face Hallucination [ECCV 2018](h
 Face Super-resolution Guided by Facial Component Heatmaps [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xin_Yu_Face_Super-resolution_Guided_ECCV_2018_paper.pdf)
 
 To learn image super-resolution, use a GAN to learn how to do image degradation first [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Adrian_Bulat_To_learn_image_ECCV_2018_paper.pdf)
+
+Super-Resolving Very Low-Resolution Face Images With Supplementary Attributes [CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Super-Resolving_Very_Low-Resolution_CVPR_2018_paper.pdf)
+
+FSRNet: End-to-End Learning Face Super-Resolution With Facial Priors [CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_FSRNet_End-to-End_Learning_CVPR_2018_paper.pdf)
 
 ## face and speech
 
