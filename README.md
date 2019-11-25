@@ -74,6 +74,10 @@ Binarized Convolutional Landmark Localizers for Human Pose Estimation and Face A
 
 Synergy Between Face Alignment and Tracking via Discriminative Global Consensus Optimization [ICCV 2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Khan_Synergy_Between_Face_ICCV_2017_paper.pdf)
 
+Recurrent 3D-2D Dual Learning for Large-Pose Facial Landmark Detection [ICCV 2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Xiao_Recurrent_3D-2D_Dual_ICCV_2017_paper.pdf)
+
+Faster Than Real-Time Facial Alignment: A 3D Spatial Transformer Network Approach in Unconstrained Poses [ICCV 2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Bhagavatula_Faster_Than_Real-Time_ICCV_2017_paper.pdf)
+
 ## face tracking
 
 Dual-Agent Deep Reinforcement Learning for Deformable Face Tracking [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Minghao_Guo_Dual-Agent_Deep_Reinforcement_ECCV_2018_paper.pdf)
@@ -157,6 +161,13 @@ Mesoscopic Facial Geometry Inference Using Deep Neural Networks [CVPR 2018](http
 Large Pose 3D Face Reconstruction From a Single Image via Direct Volumetric CNN Regression [ICCV 2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Jackson_Large_Pose_3D_ICCV_2017_paper.pdf)
 
 MoFA: Model-Based Deep Convolutional Face Autoencoder for Unsupervised Monocular Reconstruction [ICCV 2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tewari_MoFA_Model-Based_Deep_ICCV_2017_paper.pdf)
+
+Unrestricted Facial Geometry Reconstruction Using Image-To-Image Translation [ICCV 2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Sela_Unrestricted_Facial_Geometry_ICCV_2017_paper.pdf)
+
+Learning Dense Facial Correspondences in Unconstrained Images [ICCV 2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Yu_Learning_Dense_Facial_ICCV_2017_paper.pdf)
+
+Realistic Dynamic Facial Textures From a Single Image Using GANs [ICCV 2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Olszewski_Realistic_Dynamic_Facial_ICCV_2017_paper.pdf)
+
 ## face pose estimation
 
 M2FPA: A Multi-Yaw Multi-Pitch High-Quality Dataset and Benchmark for Facial Pose Analysis [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_M2FPA_A_Multi-Yaw_Multi-Pitch_High-Quality_Dataset_and_Benchmark_for_Facial_ICCV_2019_paper.pdf)
@@ -204,6 +215,12 @@ Classifier Learning With Prior Probabilities for Facial Action Unit Recognition 
 4DFAB: A Large Scale 4D Database for Facial Expression Analysis and Biometric Applications [CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_4DFAB_A_Large_CVPR_2018_paper.pdf)
 
 Bilateral Ordinal Relevance Multi-Instance Regression for Facial Action Unit Intensity Estimation [CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Bilateral_Ordinal_Relevance_CVPR_2018_paper.pdf)
+
+A Novel Space-Time Representation on the Positive Semidefinite Cone for Facial Expression Recognition [ICCV 2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Kacem_A_Novel_Space-Time_ICCV_2017_paper.pdf)
+
+DeepCoder: Semi-Parametric Variational Autoencoders for Automatic Facial Action Coding [ICCV 2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tran_DeepCoder_Semi-Parametric_Variational_ICCV_2017_paper.pdf)
+
+Deep Facial Action Unit Recognition From Partially Labeled Data [ICCV 2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wu_Deep_Facial_Action_ICCV_2017_paper.pdf)
 
 ## face generation
 
