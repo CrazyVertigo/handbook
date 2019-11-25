@@ -86,6 +86,10 @@ Faster Than Real-Time Facial Alignment: A 3D Spatial Transformer Network Approac
 
 A Deep Regression Architecture With Two-Stage Re-Initialization for High Performance Facial Landmark Detection [CVPR 2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lv_A_Deep_Regression_CVPR_2017_paper.pdf)
 
+Simultaneous Facial Landmark Detection, Pose and Deformation Estimation Under Facial Occlusion [CVPR 2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wu_Simultaneous_Facial_Landmark_CVPR_2017_paper.pdf)
+
+Interspecies Knowledge Transfer for Facial Keypoint Detection [CVPR 2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Rashid_Interspecies_Knowledge_Transfer_CVPR_2017_paper.pdf)
+
 ## face tracking
 
 Dual-Agent Deep Reinforcement Learning for Deformable Face Tracking [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Minghao_Guo_Dual-Agent_Deep_Reinforcement_ECCV_2018_paper.pdf)
@@ -95,6 +99,8 @@ A Prior-Less Method for Multi-Face Tracking in Unconstrained Videos [CVPR 2018](
 Real Time Eye Gaze Tracking With 3D Deformable Eye-Face Model [ICCV 2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Real_Time_Eye_ICCV_2017_paper.pdf)
 
 Dynamic Facial Analysis: From Bayesian Filtering to Recurrent Neural Network [CVPR 2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Gu_Dynamic_Facial_Analysis_CVPR_2017_paper.pdf)
+
+A Generative Model for Depth-Based Robust 3D Facial Pose Tracking [CVPR 2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sheng_A_Generative_Model_CVPR_2017_paper.pdf)
 
 ## face parsing
 
@@ -190,6 +196,8 @@ Parametric T-Spline Face Morphable Model for Detailed Fitting in Shape Subspace 
 
 Fast 3D Reconstruction of Faces With Glasses [CVPR 2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Maninchedda_Fast_3D_Reconstruction_CVPR_2017_paper.pdf)
 
+Photorealistic Facial Texture Inference Using Deep Neural Networks [CVPR 2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Saito_Photorealistic_Facial_Texture_CVPR_2017_paper.pdf)
+
 ## face pose estimation
 
 M2FPA: A Multi-Yaw Multi-Pitch High-Quality Dataset and Benchmark for Facial Pose Analysis [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_M2FPA_A_Multi-Yaw_Multi-Pitch_High-Quality_Dataset_and_Benchmark_for_Facial_ICCV_2019_paper.pdf)
@@ -201,6 +209,8 @@ POSEidon: Face-From-Depth for Driver Pose Estimation [CVPR 2017](http://openacce
 ## face attribute
 
 Partially Shared Multi-Task Convolutional Neural Network With Local Constraint for Face Attribute Learning [CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cao_Partially_Shared_Multi-Task_CVPR_2018_paper.pdf)
+
+Improving Facial Attribute Prediction Using Semantic Segmentation [CVPR 2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kalayeh_Improving_Facial_Attribute_CVPR_2017_paper.pdf)
 
 ### face age and gender
 
@@ -332,6 +342,8 @@ Multi-Adversarial Discriminative Deep Domain Generalization for Face Presentatio
 
 Fair Loss: Margin-Aware Reinforcement Learning for Deep Face Recognition [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Fair_Loss_Margin-Aware_Reinforcement_Learning_for_Deep_Face_Recognition_ICCV_2019_paper.pdf)
 
+Adversarial Learning With Margin-Based Triplet Embedding Regularization [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhong_Adversarial_Learning_With_Margin-Based_Triplet_Embedding_Regularization_ICCV_2019_paper.pdf)
+
 Attentional Feature-Pair Relation Networks for Accurate Face Recognition [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kang_Attentional_Feature-Pair_Relation_Networks_for_Accurate_Face_Recognition_ICCV_2019_paper.pdf)
 
 Probabilistic Face Embeddings [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shi_Probabilistic_Face_Embeddings_ICCV_2019_paper.pdf)
@@ -359,10 +371,6 @@ Ring Loss: Convex Feature Normalization for Face Recognition [CVPR 2018](http://
 CosFace: Large Margin Cosine Loss for Deep Face Recognition [CVPR 2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_CosFace_Large_Margin_CVPR_2018_paper.pdf)
 
 SphereFace: Deep Hypersphere Embedding for Face Recognition [CVPR 2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Liu_SphereFace_Deep_Hypersphere_CVPR_2017_paper.pdf)
-
-### unsupervised 
-
-From Face Recognition to Models of Identity: A Bayesian Approach to Learning about Unknown Identities from Unsupervised Data [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Daniel_Castro_From_Face_Recognition_ECCV_2018_paper.pdf)
 
 ### attribute
 
@@ -427,6 +435,10 @@ Feature Transfer Learning for Face Recognition With Under-Represented Data [CVPR
 Unequal-Training for Deep Face Recognition With Long-Tailed Noisy Data [CVPR 2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhong_Unequal-Training_for_Deep_Face_Recognition_With_Long-Tailed_Noisy_Data_CVPR_2019_paper.pdf)
 
 Range Loss for Deep Face Recognition With Long-Tailed Training Data [ICCV 2017](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Range_Loss_for_ICCV_2017_paper.pdf)
+
+### unsupervised 
+
+From Face Recognition to Models of Identity: A Bayesian Approach to Learning about Unknown Identities from Unsupervised Data [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Daniel_Castro_From_Face_Recognition_ECCV_2018_paper.pdf)
 
 ### set-based embedding
 
