@@ -238,11 +238,9 @@ Partially Shared Multi-Task Convolutional Neural Network With Local Constraint f
 
 Improving Facial Attribute Prediction Using Semantic Segmentation [CVPR 2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Kalayeh_Improving_Facial_Attribute_CVPR_2017_paper.pdf)
 
-### face age and gender
-
 Facial Dynamics Interpreter Network: What are the Important Relations between Local Dynamics for Facial Trait Estimation? [ECCV 2018](http://openaccess.thecvf.com/content_ECCV_2018/papers/Seong_Tae_Kim_Facial_Dynamics_Interpreter_ECCV_2018_paper.pdf)
 
-### face expression
+### face expression and action unit
 
 Context-Aware Feature and Label Fusion for Facial Action Unit Intensity Estimation With Partially Labeled Data [ICCV 2019](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Context-Aware_Feature_and_Label_Fusion_for_Facial_Action_Unit_Intensity_ICCV_2019_paper.pdf)
 
